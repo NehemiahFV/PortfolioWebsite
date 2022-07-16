@@ -5,7 +5,7 @@
 // }
 
 function moveToAboutMe(id){
-    //alert(id.id)
+    alert(id.id)
     document.getElementById(id.id).scrollIntoView({
         behavior: 'smooth'
     });
