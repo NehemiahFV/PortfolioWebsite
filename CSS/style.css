@@ -75,11 +75,10 @@ footer {
 
 .footer-content p{
   font-family:'Yanone Kaffeesatz', sans-serif;
-  font-size: 45px;
+  font-size: 24px;
 }
 
 footer p {
-  font-family:'Yanone Kaffeesatz', sans-serif;
   text-align: center;
   line-height: 50px;
 }
